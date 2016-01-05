@@ -1,15 +1,15 @@
 # Site settings
-title: Hanson
+title: title-linker2008
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://linker2008.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "linker"
+  email: linkerlv@qq.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: linker2008
+weibo_username: linkerlv
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: zhihu-linker
 
 # Build settings  
 # use Github Flavored Markdown !important  
